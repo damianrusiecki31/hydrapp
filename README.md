@@ -1,4 +1,12 @@
-# wtf-gulp-starter
+![hydrapp_screenshot](/src/assets/img/cover.png)
+
+# Hydrapp
+
+Zapraszam na stronę: [Hydrapp](https://damianrusiecki31.github.io/hydrapp/)
+
+## Jak uruchomić stronę lokalnie:
+
+Aby uruchomić moją stronę lokalnie wykonaj poniższe polecenia:
 
 `npm install -g gulp-cli`
 
